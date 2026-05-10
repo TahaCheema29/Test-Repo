@@ -1,0 +1,281 @@
+export { default as VerdantLightLogo } from "./verdant-white-logo.svg";
+export { default as VerdantGreenLogo } from "./verdant-green-logo.svg";
+export { default as HeroBg } from "./hero-bg.png";
+export { default as Highlight1 } from "./highlight-1.jpg";
+export { default as Highlight2 } from "./highlight-2.png";
+export { default as Highlight3 } from "./highlight-3.png";
+export { default as VerdantLogoLeft } from "./VerdantLogoLeft.png";
+export { default as VerdantLogoRight } from "./VerdantLogoRight.png";
+
+export { default as ImageTestimonial1 } from "./image-testimonial-1.png";
+export { default as ImageTestimonial2 } from "./image-testimonial-2.png";
+export { default as ImageTestimonial3 } from "./image-testimonial-3.png";
+export { default as TextTestimonial1 } from "./text-testimonial-1.png";
+export { default as TextTestimonial2 } from "./text-testimonial-2.png";
+export { default as WorkFlowImage } from "./work-flow.svg";
+
+export { default as Arrow } from "./arrow.svg";
+export { default as DottedBG } from "./dotted-bg.svg";
+export { default as PhoneImage } from "./phone.png";
+export { default as GraphImage } from "./graph.svg";
+
+export { default as LowerElipse } from "./lower-elipse.svg";
+export { default as UpperElipse } from "./upper-elipse.svg";
+export { default as LeftLine } from "./left-line.svg";
+export { default as RightLine } from "./right-line.svg";
+
+export { default as LinkedInIcon } from "./Linkedin.svg";
+export { default as InstagramIcon } from "./Instagram.svg";
+export { default as FacebookIcon } from "./Facebook.svg";
+
+export { default as ClinicManagement } from "./clinic-management.jpg";
+export { default as DentalCare } from "./dental-care.png";
+export { default as ECommerce } from "./e-commerce.png";
+export { default as ParkingApplication } from "./parking-application.png";
+export { default as RealEstate } from "./real-estate.jpg";
+export { default as ShopifySync } from "./shopify-sync.png";
+export { default as VpnExtension } from "./vpn-extension.jpg";
+export { default as HospitalManagement } from "./hospital-management.jpg";
+
+export { default as CustomSoftwareBG } from "./custom-software-bg.jpg";
+export { default as CloudOptimizationBG } from "./cloud-optimization-bg.png";
+export { default as DesignToDevBG } from "./design-to-dev-bg.jpg";
+
+export { default as JsIcon } from "./js-icon.svg";
+export { default as KotlinIcon } from "./kotlin-icon.svg";
+export { default as NodeIcon } from "./node-icon.svg";
+export { default as PythonIcon } from "./python-icon.svg";
+export { default as PhpIcon } from "./php-icon.svg";
+export { default as ReactIcon } from "./react-icon.svg";
+export { default as VueIcon } from "./vue-icon.svg";
+export { default as DjangoIcon } from "./django-icon.svg";
+export { default as NestIcon } from "./nest-icon.svg";
+export { default as NextIcon } from "./next-icon.svg";
+export { default as ExpressIcon } from "./express-icon.svg";
+export { default as KonvaIcon } from "./konva-icon.svg";
+export { default as MySqlIcon } from "./my-sql-icon.svg";
+export { default as MongoDbIcon } from "./mongoDB-icon.svg";
+export { default as AmazonAuroraIcon } from "./amazon-aurora-icon.svg";
+export { default as SqLiteIcon } from "./sq-lite-icon.svg";
+export { default as TypeScriptIcon } from "./typescript-icon.svg";
+export { default as PostgreSQLIcon } from "./postgre-sql-icon.svg";
+
+export { default as AWSIcon } from "./aws-icon.svg";
+export { default as AzureIcon } from "./azure-icon.svg";
+export { default as GCPIcon } from "./gcp-icon.svg";
+export { default as DigitalOceanIcon } from "./digital-ocean-icon.svg";
+export { default as AliBabaIcon } from "./ali-baba-icon.svg";
+export { default as GitHubIcon } from "./github-icon.svg";
+export { default as BitBucketIcon } from "./bit-bucket-icon.svg";
+export { default as GitLabIcon } from "./git-lab-icon.svg";
+export { default as JenkinsIcon } from "./jenkins-icon.svg";
+export { default as CircleCiIcon } from "./circle-ci-icon.svg";
+export { default as DockerIcon } from "./docker-icon.svg";
+export { default as KubernetesIcon } from "./kubernetes-icon.svg";
+export { default as OpenShiftIcon } from "./open-shift-icon.svg";
+export { default as TeraFormIcon } from "./tera-form-icon.svg";
+export { default as CloudFormationIcon } from "./cloud-formation-icon.svg";
+export { default as AnsibleIcon } from "./ansible-icon.svg";
+export { default as DataLogIcon } from "./data-log-icon.svg";
+export { default as PrometheousIcon } from "./prometheous-icon.svg";
+export { default as GrafanaIcon } from "./grafana-icon.svg";
+export { default as ElasticSearchIcon } from "./elastic-search-icon.svg";
+export { default as DynatraceIcon } from "./dynatrace-icon.svg";
+export { default as LinuxIcon } from "./linux-icon.svg";
+export { default as WindowsIcon } from "./windows-icon.svg";
+export { default as BashIcon } from "./bash-icon.svg";
+export { default as PowerShellIcon } from "./power-shell-icon.svg";
+export { default as JavaSriptIcon } from "./javascript-icon.svg";
+export { default as GoIcon } from "./go-icon.svg";
+
+export { default as FigmaIcon } from "./figma-icon.svg";
+export { default as AdobeXDIcon } from "./adobe-xd-icon.svg";
+export { default as SketchIcon } from "./sketch-icon.svg";
+export { default as InVisionIcon } from "./in-vision-icon.svg";
+export { default as AxureRpIcon } from "./axure-rp-icon.svg";
+export { default as BalsamiqIcom } from "./balsamiq-icon.svg";
+export { default as WhimsicalIcon } from "./whimsical-icon.svg";
+export { default as LucideChartIcon } from "./lucid-chart-icon.svg";
+export { default as MiroIcon } from "./miro-icon.svg";
+export { default as ZeplinIcon } from "./zeplin-icon.svg";
+export { default as PhotoShopIcon } from "./photoshop-icon.svg";
+export { default as IllustratorIcon } from "./illustrator-icon.svg";
+export { default as AfterAffectsIcon } from "./after-affects-icon.svg";
+export { default as MoqUpsIcon } from "./moq-ups-icon.svg";
+
+export { default as CloudOptimizationImage1 } from "./cloud-optimization-image-1.png";
+export { default as CloudOptimizationImage2 } from "./cloud-optimization-image-2.png";
+export { default as CloudOptimizationImage3 } from "./cloud-optimization-image-3.png";
+export { default as CloudOptimizationImage4 } from "./cloud-optimization-image-4.png";
+export { default as CloudOptimizationImage5 } from "./cloud-optimization-image-5.png";
+export { default as CloudOptimizationImage6 } from "./cloud-optimization-image-6.png";
+
+export { default as CustomSoftwareImage1 } from "./custom-software-image-1.png";
+export { default as CustomSoftwareImage2 } from "./custom-software-image-2.png";
+export { default as CustomSoftwareImage3 } from "./custom-software-image-3.png";
+export { default as CustomSoftwareImage4 } from "./custom-software-image-4.png";
+export { default as CustomSoftwareImage5 } from "./custom-software-image-5.png";
+export { default as CustomSoftwareImage6 } from "./custom-software-image-6.png";
+
+export { default as DesignToDevImage1 } from "./design-to-development-image-1.png";
+export { default as DesignToDevImage2 } from "./design-to-development-image-2.png";
+export { default as DesignToDevImage3 } from "./design-to-development-image-3.png";
+export { default as DesignToDevImage4 } from "./design-to-development-image-4.png";
+export { default as DesignToDevImage5 } from "./design-to-development-image-5.png";
+
+export { default as PsychiatricClinicBG } from "./psychiatric-clinic-bg.png";
+export { default as PsychiatricClinicImage1 } from "./psychiatric-image-1.png";
+export { default as ECommerceBG } from "./e-commere-bg.png";
+export { default as ECommerceImage1 } from "./e-commerce-image-1.png";
+export { default as ECommerceImage2 } from "./e-commerce-image-2.png";
+export { default as DentalCareBg } from "./dental-care-bg.png";
+export { default as DentalCareImage1 } from "./dental-care-image-1.png";
+export { default as DentalCareImage2 } from "./dental-care-image-2.png";
+export { default as RealEstateBG } from "./real-estate-bg.png";
+export { default as RealEstateImage1 } from "./real-estate-image-1.png";
+export { default as ShopifyBg } from "./shopify-bg.png";
+export { default as ShopifyImage1 } from "./shopify-image-1.png";
+export { default as ParkingAppBG } from "./parking-app-bg.png";
+export { default as ParkingAppImage1 } from "./parking-app-image-1.png";
+export { default as ParkingAppImage2 } from "./parking-app-image-2.png";
+export { default as ETLManagementBG } from "./etl-management-bg.png";
+export { default as ETLManagementImage1 } from "./etl-management-image-1.png";
+export { default as ETLManagementImage2 } from "./etl-management-image-2.png";
+export { default as CanvasBG } from "./canvas-bg.png";
+export { default as CanvasImage1 } from "./canvas-image-1.png";
+export { default as CanvasImage2 } from "./canvas-image-2.png";
+
+export { default as ClinicManagementBG } from "./clinic-management-bg.png";
+export { default as ClinicManagementImage1 } from "./clinic-management-image-1.png";
+export { default as ClinicManagementImage2 } from "./clinic-management-image-2.png";
+
+export { default as VPNExtensionBG } from "./vpn-extension-bg.png";
+export { default as VPNExtensionImage1 } from "./vpn-extension-image-1.png";
+
+export { default as ProcessBGUp } from "./the-process-bg-up.png";
+export { default as ProcessBGDown } from "./the-process-bg-down.png";
+
+export { default as OneNumber } from "./01.svg";
+export { default as TwoNumber } from "./02.svg";
+export { default as ThreeNumber } from "./03.svg";
+export { default as FourNumber } from "./04.svg";
+
+export { default as ExploreMoreArrow } from "./explore-more-arrow.svg";
+
+export { default as CustomSoftwareServiceBG } from "./custom-software-service-bg.png";
+export { default as CloudDevOpsServiceBG } from "./cloud-devOps-service-bg.png";
+export { default as UiUxServiceBG } from "./ui-ux-service-bg.png";
+
+export { default as ItTeamImage1 } from "./it-team-image-1.png";
+export { default as ItTeamImage2 } from "./it-team-image-2.png";
+export { default as ItTeamImage3 } from "./it-team-image-3.png";
+export { default as ItTeamImage4 } from "./it-team-image-4.png";
+export { default as ItTeamImage5 } from "./it-team-image-5.png";
+
+export { default as Step1Line } from "./step-1-line.jpg";
+export { default as Step2Line } from "./step-2-line.jpg";
+export { default as Step3Line } from "./step-3-line.jpg";
+export { default as Step4Line } from "./step-4-line.jpg";
+export { default as Step5Line } from "./step-5-line.jpg";
+export { default as Step6Line } from "./step-6-line.jpg";
+
+export { default as CareerBG } from "./career-img.jpg";
+export { default as ArrowBlack } from "./arrow-black.svg";
+export { default as FormIcon } from "./form-icon.svg";
+
+export { default as ResumeUploadIcon } from "./resume-upload.svg";
+export { default as BackIcon } from "./back-icon.svg";
+
+export { default as PrivacyBg } from "./privacy-bg.jpg";
+export { default as NewsLetterBG } from "./newsletter-bg.jpg";
+export { default as NewsLetterImage1 } from "./newsletter-image-1.jpg";
+
+export { default as BoxoBG } from "./boxo-bg.png";
+export { default as BoxoImage1 } from "./boxo-image-1.png";
+export { default as BoxoImage2 } from "./boxo-image-2.png";
+
+export { default as TechConsultingBG } from "./tech-consulting-bg.png";
+export { default as TechConsultingImage1 } from "./tech-consulting-image-1.png";
+export { default as TechConsultingImage2 } from "./tech-consulting-image-2.png";
+
+export { default as SnoonuBG } from "./snoonu-bg.png";
+export { default as SnoonuImage1 } from "./snoonu-image-1.png";
+export { default as SnoonuImage2 } from "./snoonu-image-2.png";
+
+export { default as QuantumBG } from "./quantum-bg.png";
+export { default as QuantumImage1 } from "./quantum-image-1.png";
+export { default as QuantumImage2 } from "./quantum-imag-2.png";
+
+export { default as BrainyBoxTechBG } from "./brainy-box-bg.jpg";
+export { default as BrainyBoxTechImage1 } from "./brainy-box-image-1.png";
+export { default as BrainyBoxTechImage2 } from "./brainy-box-image-2.png";
+
+export { default as PsychplusBG } from "./psych-plus-bg.png";
+export { default as PsychplusImage1 } from "./psych-plus-image-1.png";
+export { default as PsychplusImage2 } from "./psych-plus-image-2.png";
+
+export { default as LocalizedBG } from "./localized-bg.png";
+export { default as LocalizedImage1 } from "./localized-image-1.png";
+export { default as LocalizedImage2 } from "./localized-image-2.png";
+
+export { default as SapHclBG } from "./sap-hcl-bg.png";
+export { default as SapHclImage1 } from "./sap-hcl-image-1.png";
+export { default as SapHclImage2 } from "./sap-hcl-image-2.png";
+
+export { default as Microsoft365BG } from "./microsoft-365-bg.png";
+export { default as Microsoft365Image1 } from "./microsoft-365-image-1.png";
+export { default as Microsoft365Image2 } from "./microsoft-365-image-2.png";
+
+export { default as MicrosoftBG } from "./microsoft-bg.png";
+export { default as MicrosoftImage1 } from "./microsoft-image-1.png";
+export { default as MicrosoftImage2 } from "./microsoft-image-2.png";
+
+export { default as CrewBloomBG } from "./crew-bloom-bg.png";
+export { default as CrewBloomImage1 } from "./crew-bloom-image-1.png";
+export { default as CrewBloomImage2 } from "./crew-bloom-image-2.png";
+
+export { default as BTechBG } from "./b-tech-bg.jpg";
+export { default as BTechImage1 } from "./b-tech-image-1.png";
+export { default as BTechImage2 } from "./b-tech-image-2.png";
+
+export { default as PowerhouseBG } from "./power-house-bg.png";
+export { default as PowerhouseImage1 } from "./power-house-image-1.png";
+export { default as PowerhouseImage2 } from "./power-house-image-2.png";
+
+export { default as CareerPageImage1 } from "./CareerPageImage1.png";
+export { default as CareerPageImage2 } from "./CareerPageImage2.png";
+export { default as CareerPageImage3 } from "./CareerPageImage3.png";
+export { default as CareerPageImage4 } from "./CareerPageImage4.png";
+export { default as CareerPageImage5 } from "./CareerPageImage5.png";
+export { default as CareerPageImage6 } from "./CareerPageImage6.png";
+export { default as CareerPageImage7 } from "./CareerPageImage7.png";
+
+export { default as CareerDetailImage1 } from "./CareerDetailImage1.png";
+export { default as CareerDetailImage2 } from "./CareerDetailImage2.png";
+export { default as CareerDetailImage3 } from "./CareerDetailImage3.png";
+export { default as CareerDetailImage4 } from "./CareerDetailImage4.png";
+export { default as CareerDetailImage5 } from "./CareerDetailImage5.png";
+export { default as CareerDetailImage6 } from "./CareerDetailImage6.png";
+export { default as CareerDetailImage7 } from "./CareerDetailImage7.png";
+export { default as CareerDetailImage8 } from "./CareerDetailImage8.png";
+export { default as CareerDetailImage9 } from "./CareerDetailImage9.png";
+export { default as CareerDetailImage10 } from "./CareerDetailImage10.png";
+export { default as CareerDetailImage11 } from "./CareerDetailImage11.png";
+export { default as CareerDetailImage12 } from "./CareerDetailImage12.png";
+export { default as CareerDetailImage13 } from "./CareerDetailImage13.png";
+export { default as CareerDetailImage14 } from "./CareerDetailImage14.png";
+export { default as CareerDetailImage15 } from "./CareerDetailImage15.png";
+export { default as CareerDetailImage16 } from "./CareerDetailImage16.png";
+export { default as CareerDetailImage17 } from "./CareerDetailImage17.png";
+export { default as CareerDetailImage18 } from "./CareerDetailImage18.png";
+
+export { default as TickIcon } from "./TickIcon.svg";
+export { default as LocationPinIcon } from "./LocationPin.svg";
+export { default as DotIcon } from "./DotIcon.svg";
+export { default as RoleIcon } from "./RoleIcon.svg"
+export { default as TypeIcon } from "./TypeIcon.svg";
+export { default as JobTypeIcon } from "./JobTypeIcon.svg";
+export { default as JobLocation } from "./JobLocation.svg";
+
+
+
