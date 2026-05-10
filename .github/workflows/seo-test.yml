@@ -18,7 +18,7 @@ jobs:
             -H "Authorization: Bearer ${{ secrets.SEO_LENS_API_KEY }}" \
             -H "Content-Type: application/json" \
             -d '{
-              "url": "https://your-website.com",
+              "url": "https://test-repo-rosy-beta.vercel.app/",
               "crawl_mode": "standard",
               "repository": "${{ github.repository }}",
               "branch": "${{ github.ref_name }}",
