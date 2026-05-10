@@ -1,0 +1,33 @@
+name: SEO Analysis
+
+on:
+  push:
+    branches: [main, master]
+
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run SEO Analysis
+        run: |
+          echo "🚀 Triggering SEO analysis..."
+          
+          RESPONSE=$(curl -s -X POST "https://fatter-recordingly-sona.ngrok-free.dev/webhooks/trigger" \
+            -H "Authorization: Bearer ${{ secrets.SEO_LENS_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "url": "https://your-website.com",
+              "crawl_mode": "standard",
+              "repository": "${{ github.repository }}",
+              "branch": "${{ github.ref_name }}",
+              "commit_sha": "${{ github.sha }}"
+            }')
+          
+          echo "Response: $RESPONSE"
+          echo "$RESPONSE" | jq .
+          
+          JOB_ID=$(echo "$RESPONSE" | jq -r '.job_id')
+          echo "✅ Analysis triggered! Job ID: $JOB_ID"
+          echo "📧 Check your email for results!"
